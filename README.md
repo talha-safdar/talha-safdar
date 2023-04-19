@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 I am Talha Safdar and I am a game developer :)
 
 I will add more information soon..
