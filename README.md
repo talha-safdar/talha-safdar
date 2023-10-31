@@ -1,7 +1,7 @@
 ### About me
-I am Talha Safdar and I am a game developer :)
+I am Talha Safdar and I am a software developer :)
 
-I will add more information soon..
+I will add more information soon...
 
 <!--
 **talha-safdar/talha-safdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
