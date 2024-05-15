@@ -1,7 +1,7 @@
 ### About me
 I am Talha Safdar and I am a software developer :)
 
-I will add more information soon...
+I am a first class graduate Computer Science with knowledge and experience enhanced through academic and personal projects. For gaming projects please visit my GitLab profile.
 
 <!--
 **talha-safdar/talha-safdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
